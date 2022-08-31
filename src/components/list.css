@@ -1,0 +1,30 @@
+.list-container {
+  display: inline-block;
+  width: 100%;
+  border: none;
+}
+
+.titles {
+  border-bottom: none;
+  display: flex;
+  width: 100%;
+}
+
+.titles span {
+  width: 25%;
+  border-right: 2px solid rgb(226, 226, 226);
+  border-bottom: 1px solid rgb(226, 226, 226);
+}
+
+#currencies {
+  border-right: none;
+}
+
+.list div {
+  border-bottom: 1px solid rgb(226, 226, 226);
+  width: 100%;
+  color: #808080;
+  font-weight: bold;
+  font-size: 12px;
+  display: inline-flexbox;
+}

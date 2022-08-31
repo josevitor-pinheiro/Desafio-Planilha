@@ -1,0 +1,18 @@
+.lista {
+    display: inline-block;
+    width: 100%;
+} 
+
+.objetos {
+    display: flex;
+align-content: center;
+}
+
+.objetos span {
+    width: 25%;
+    border-right: 2px solid rgb(226, 226, 226);
+  }
+
+  #last-span {
+    border-right: none;
+  }

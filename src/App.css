@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  width: 40em;
+  margin: auto;
+  margin-top: 200px;
+}
+
+
+.title {
+  border-bottom: 1px solid rgb(226, 226, 226);
+  width: 100%;
+  font-family: sans-serif, Arial, Helvetica;
+  text-align: center;
+  color: #4f4f4f;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.listContainer {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.container {
+  border: 1px solid rgb(226, 226, 226);
+  width: 100%;
+  align-items: center;
+}
